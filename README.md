@@ -1,4 +1,4 @@
-# F1 2024 Championship Season Explorer
+# F1 2024 Championship Explorer
 
 A comprehensive desktop application for analyzing Formula 1 2024 season data, providing interactive race exploration, real telemetry analysis, and championship tracking across all 24 Grand Prix events.
 
